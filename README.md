@@ -1,5 +1,11 @@
 # Yoga Management App
 
+## Technologies used
+
+- React for front end
+- SpringBoot for back end
+- MySQL for the database
+
 ## Assumptions made
 
 - User can enroll only for the current month and the next 6 months only
