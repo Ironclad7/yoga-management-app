@@ -33,8 +33,18 @@
 
 ## Structure of the database
 
-### ER Diagram
+### ER diagram of the project
+
+![ER Diagram](https://github.com/Ironclad7/yoga-management-app/blob/master/Yoga%20Management%20ER%20Diagram.PNG?raw=true)
 
 ### Structure of profiles
 
+![profiles structure](https://github.com/Ironclad7/yoga-management-app/blob/master/profiles%20desc.png?raw=true)
+
 ### Structure of payment
+
+![payment structure](https://github.com/Ironclad7/yoga-management-app/blob/master/payment%20desc.png?raw=true)
+
+## References:
+
+Back end part of the project in spring boot is [here](https://github.com/Ironclad7/yoga-management-apis)
